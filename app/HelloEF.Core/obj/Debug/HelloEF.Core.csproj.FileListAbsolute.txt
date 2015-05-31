@@ -1,0 +1,4 @@
+D:\VS2013Project\src\app\HelloEF.Core\bin\Debug\HelloEF.Core.dll
+D:\VS2013Project\src\app\HelloEF.Core\bin\Debug\HelloEF.Core.pdb
+D:\VS2013Project\src\app\HelloEF.Core\obj\Debug\HelloEF.Core.dll
+D:\VS2013Project\src\app\HelloEF.Core\obj\Debug\HelloEF.Core.pdb
